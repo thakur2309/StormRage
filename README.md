@@ -41,7 +41,7 @@ chmod +x install.sh
 ./install.sh
 ```
 
-### Start Comment
+### Start Command 
 ```
 python3 stormrage.py
 ```
