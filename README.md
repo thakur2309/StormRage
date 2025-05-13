@@ -27,21 +27,21 @@ pkg update && pkg upgrade -y
 pkg install git -y
 ```
 ```
-git clone https://github.com/thakur2309/install-kali-termux.git
+git clone https://github.com/thakur2309/StormRage.git
 ```
 ```
-cd install-kali-termux
+cd StormRage
 ```
 ```
-chmod +x install-kali.sh
+chmod +x install.sh
 ```
 ```
-./install-kali.sh
+./install.sh
 ```
 
 ### Start Comment
 ```
-bash install-kali.sh
+python3 stormrage.py
 ```
 
 
