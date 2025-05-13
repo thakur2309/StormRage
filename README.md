@@ -28,7 +28,7 @@ Number of Threads: 100
 
 ### Termux Full Install and Setup 
 ```
-pkg update && pkg upgrade && pkg install git && git clone https://github.com/thakur2309/install-kali-termux.git && cd install-kali-termux && chmod +x install-kali.sh && ./install-kali.sh
+pkg update && pkg upgrade && pkg install git && git clone https://github.com/thakur2309/StormRage.git && cd StormRage && chmod +x install.sh && ./install.sh && python3 stormrage.py
 ```
 
 ### [TERMUX] Packege Install Comments
