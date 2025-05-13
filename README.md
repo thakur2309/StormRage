@@ -11,7 +11,20 @@ A simple Python-based DDoS tool for testing the strength of your server against 
 ## Prerequisites:
 - Python 3.x
 - Required Python libraries listed in `install.sh`
+## Preview:
+=== StormRage - Educational DDoS Tool ===
+⚠️ Use for testing on your own systems only!
+----Created by Alok thakur---
+Suscribe channel -- Firewall breaker 
 
+Attack mode (tcp/https): tcp
+Target IP: 127.0.0.1
+Port (default 80): 80
+Number of Threads: 100
+
+Attack mode (tcp/https): https
+Target URL (with https://): https://example.com
+Number of Threads: 100
 
 ### Termux Full Install and Setup 
 ```
