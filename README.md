@@ -12,7 +12,7 @@ A simple Python-based DDoS tool for testing the strength of your server against 
 - Python 3.x
 - Required Python libraries listed in `install.sh`
 ## Preview:
-<https://raw.githubusercontent.com/thakur2309/StormRage/refs/heads/main/Screenshot_2025_0513_114337.jpg>
+![Instagram Image ](https://raw.githubusercontent.com/thakur2309/StormRage/refs/heads/main/Screenshot_2025_0513_114337.jpg)
 
 
 ### Termux Full Install and Setup 
