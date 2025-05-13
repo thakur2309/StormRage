@@ -1,25 +1,17 @@
-<h1 align="center"><u> 📌Install Kali Linux in android😮 </u></h1>
+<h1 align="center"><u> 📌StormRage - Powerful DDoS Tool😮 </u></h1>
 
-![GUI VERSION ](https://github.com/thakur2309/install-kali-termux/blob/main/020-NH-Rootless-KeX_s.png)
+**⚠️ Use for educational purposes only and on your own systems.**
 
-<h3 align="center"> Preview!</h3>
+A simple Python-based DDoS tool for testing the strength of your server against HTTP and TCP flood attacks. 
 
-# Kali NetHunter Installation in Termux
+## Features:
+- **TCP Flood Attack**: Simulates TCP flood on the target IP and port.
+- **HTTPS Flood Attack**: Simulates HTTPS requests to the target URL.
 
-This repository allows you to install **Kali NetHunter** in Termux using an automated script. It's designed for beginners who want a portable Kali Linux environment on Android.
+## Prerequisites:
+- Python 3.x
+- Required Python libraries listed in `install.sh`
 
-## Requirements
-
-- Android device (No root required)
-- Termux app (latest version from F-Droid)
-- Stable internet connection
-- Minimum 5GB free internal storage
-
-## Features
-
-- One-click installation script
-- Installs all required dependencies
-- Auto error handling included
 
 ### Termux Full Install and Setup 
 ```
